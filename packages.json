@@ -6,5 +6,9 @@
 	{
 		"package":"blaseRtools",
 		"url":"https://github.com/blaserlab/blaseRtools"
+	},
+	{
+		"package":"blaseRdata",
+		"url":"https://github.com/blaserlab/blaseRdata"
 	}
 ]
