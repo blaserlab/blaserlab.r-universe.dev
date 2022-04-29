@@ -10,5 +10,9 @@
 	{
 		"package":"blaseRdata",
 		"url":"https://github.com/blaserlab/blaseRdata"
+	},
+	{
+		"package":"datascience.curriculum",
+		"url":"https://github.com/blaserlab/datascience.curriculum"
 	}
 ]
