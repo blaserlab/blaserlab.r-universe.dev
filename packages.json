@@ -14,5 +14,9 @@
 	{
 		"package":"datascience.curriculum",
 		"url":"https://github.com/blaserlab/datascience.curriculum"
+	},
+	{
+		"package":"genotyping.functions",
+		"url":"https://github.com/blaserlab/genotyping.functions"
 	}
 ]
