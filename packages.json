@@ -18,5 +18,10 @@
 	{
 		"package":"genotyping.functions",
 		"url":"https://github.com/blaserlab/genotyping.functions"
+	},
+	{
+		"package":"TxDb.Drerio.UCSC.danRer11.ensGene",
+		"url":"https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene"
 	}
+
 ]
