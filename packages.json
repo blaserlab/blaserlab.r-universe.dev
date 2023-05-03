@@ -30,6 +30,30 @@
 	{
 		"package":"TxDb.Drerio.UCSC.danRer11.ensGene",
 		"url":"https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene"
+	},
+	{
+		"package":"ArchR",
+		"url":"https://github.com/GreenleafLab/ArchR"
+	},
+	{
+		"package":"ChrAccR",
+		"url":"https://github.com/GreenleafLab/ChrAccR"
+	},
+	{
+		"package":"ChrAccRex",
+		"url":"https://github.com/GreenleafLab/ChrAccRex"
+	},
+	{
+		"package":"muLogR",
+		"url":"https://github.com/demuellae/muLogR"
+	},
+	{
+		"package":"muRtools",
+		"url":"https://github.com/demuellae/muRtools"
+	},
+		"package":"muReportR",
+		"url":"https://github.com/demuellae/muReportR"
 	}
+
 
 ]
