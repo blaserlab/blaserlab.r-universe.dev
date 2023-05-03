@@ -51,9 +51,8 @@
 		"package":"muRtools",
 		"url":"https://github.com/demuellae/muRtools"
 	},
+	{
 		"package":"muReportR",
 		"url":"https://github.com/demuellae/muReportR"
 	}
-
-
 ]
