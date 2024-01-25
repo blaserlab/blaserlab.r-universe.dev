@@ -54,5 +54,9 @@
 	{
 		"package":"muReportR",
 		"url":"https://github.com/demuellae/muReportR"
+	},
+	{
+		"package":"DoubletFinder",
+		"url":"https://github.com/chris-mcginnis-ucsf/DoubletFinder"
 	}
 ]
