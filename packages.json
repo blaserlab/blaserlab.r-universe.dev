@@ -58,5 +58,45 @@
 	{
 		"package":"DoubletFinder",
 		"url":"https://github.com/blaserlab/DoubletFinder"
+	},
+	{
+		"package":"SeuratData",
+		"url":"https://github.com/satijalab/seurat-data"
+	},
+	{
+		"package":"Azimuth",
+		"url":"https://github.com/satijalab/azimuth"
+	},
+	{
+		"package":"BPCells",
+		"url":"https://github.com/bnprks/BPCells"
+	},
+	{
+		"package":"RcisTarget",
+		"url":"https://github.com/aertslab/RcisTarget"
+	},
+	{
+		"package":"SCENIC",
+		"url":"https://github.com/aertslab/SCENIC"
+	},
+	{
+		"package":"SCopeLoomR",
+		"url":"https://github.com/aertslab/SCopeLoomR"
+	},
+	{
+		"package":"cisTopic",
+		"url":"https://github.com/aertslab/cisTopic"
+	},
+	{
+		"package":"DAseq",
+		"url":"https://github.com/KlugerLab/DAseq"
+	},
+	{
+		"package":"genbankr",
+		"url":"https://github.com/gmbecker/genbankr"
+	},
+	{
+		"package":"ggseqlogo",
+		"url":"https://github.com/omarwagih/ggseqlogo"
 	}
 ]
