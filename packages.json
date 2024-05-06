@@ -98,5 +98,9 @@
 	{
 		"package":"ggseqlogo",
 		"url":"https://github.com/omarwagih/ggseqlogo"
+	},
+	{
+		"package":"RcppRoll",
+		"url":"https://github.com/kevinushey/RcppRoll"
 	}
 ]
