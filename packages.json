@@ -64,6 +64,10 @@
 		"url":"https://github.com/satijalab/seurat-data"
 	},
 	{
+		"package":"SeuratWrappers",
+		"url":"https://github.com/satijalab/seurat-wrappers"
+	},
+	{
 		"package":"Azimuth",
 		"url":"https://github.com/satijalab/azimuth"
 	},
@@ -102,5 +106,53 @@
 	{
 		"package":"RcppRoll",
 		"url":"https://github.com/kevinushey/RcppRoll"
+	},
+	{
+		"package":"DDRTree",
+		"url":"https://github.com/cole-trapnell-lab/DDRTree"
+	},
+	{
+		"package":"margins",
+		"url":"https://github.com/leeper/margins"
+	},
+	{
+		"package":"dotwhisker",
+		"url":"https://github.com/fsolt/dotwhisker"
+	},
+	{
+		"package":"mhurdle",
+		"url":"https://github.com/ycroissant/mhurdle"
+	},
+	{
+		"package":"GOsummaries",
+		"url":"https://github.com/raivokolde/GOsummaries"
+	},
+	{
+		"package":"rsparse",
+		"url":"https://github.com/dselivanov/rsparse"
+	},
+	{
+		"package":"RforMassSpectrometry",
+		"url":"https://github.com/RforMassSpectrometry/RforMassSpectrometry"
+	},
+	{
+		"package":"rdoc",
+		"url":"https://github.com/mdequeljoe/rdoc"
+	},
+	{
+		"package":"mdthemes",
+		"url":"https://github.com/thomas-neitmann/mdthemes"
+	},
+	{
+		"package":"tidyproteomics",
+		"url":"https://github.com/jeffsocal/tidyproteomics"
+	},
+	{
+		"package":"ivprobit",
+		"url":"https://github.com/cran/ivprobit"
+	},
+	{
+		"package":"penalized",
+		"url":"https://github.com/cran/penalized"
 	}
 ]
