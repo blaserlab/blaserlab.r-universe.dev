@@ -154,5 +154,10 @@
 	{
 		"package":"penalized",
 		"url":"https://github.com/cran/penalized"
+	},
+	{
+		"package":"DAseq",
+		"url":"https://github.com/KlugerLab/DAseq"
+
 	}
 ]
