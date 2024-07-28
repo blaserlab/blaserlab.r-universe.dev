@@ -159,5 +159,10 @@
 		"package":"DAseq",
 		"url":"https://github.com/KlugerLab/DAseq"
 
+	},
+	{
+            	"package":"loupeR",
+		"url":"https://github.com/10XGenomics/loupeR"
+
 	}
 ]
