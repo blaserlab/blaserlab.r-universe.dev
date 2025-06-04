@@ -164,5 +164,9 @@
             	"package":"loupeR",
 		"url":"https://github.com/10XGenomics/loupeR"
 
+	},
+	{
+		"package":"sceasy",
+		"url":"https://github.com/cellgeni/sceasy"
 	}
 ]
