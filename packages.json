@@ -168,5 +168,10 @@
 	{
 		"package":"sceasy",
 		"url":"https://github.com/cellgeni/sceasy"
+	},
+	{
+		"package":"saber",
+		"url":"https://github.com/blaserlab/saber"
 	}
+
 ]
