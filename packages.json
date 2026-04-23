@@ -172,6 +172,14 @@
 	{
 		"package":"saber",
 		"url":"https://github.com/blaserlab/saber"
+	},
+	{
+		"package":"CellChat",
+		"url":"https://github.com/jinworks/CellChat"
+	},
+	{
+		"package":"SeuratDisk",
+		"url":"https://github.com/mojaveazure/seurat-disk"
 	}
 
 ]
