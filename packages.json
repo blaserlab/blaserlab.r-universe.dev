@@ -21,7 +21,7 @@
 	},
 	{
 		"package":"monocle3",
-		"url":"https://github.com/cole-trapnell-lab/monocle3"
+		"url":"https://github.com/cole-trapnell-lab/monocle3/tree/bge.grr_fix.20260420"
 	},
 	{
 		"package":"speedglm",
