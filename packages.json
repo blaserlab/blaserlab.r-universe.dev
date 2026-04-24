@@ -21,7 +21,7 @@
 	},
 	{
 		"package":"monocle3",
-		"url":"https://github.com/cole-trapnell-lab/monocle3/tree/bge.grr_fix.20260420"
+		"url":"https://github.com/cole-trapnell-lab/monocle3"
 	},
 	{
 		"package":"speedglm",
@@ -180,6 +180,10 @@
 	{
 		"package":"SeuratDisk",
 		"url":"https://github.com/mojaveazure/seurat-disk"
+	},
+	{
+		"package":"grr",
+		"url":"https://github.com/cran/grr"
 	}
 
 ]
